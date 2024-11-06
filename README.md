@@ -5,7 +5,7 @@
 </section>
 <h2>Table of Content</h2>
 <ul>
-  <li><a href="PO">Project Overview</a></li>
+  <li><a href="#PO">Project Overview</a></li>
   <li><a href="PO">Data Description</a></li>
   <li><a href="PO">Data Processing</a></li>
   <li><a href="PO">Exploratory Data Analysis</a></li>
