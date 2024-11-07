@@ -43,9 +43,16 @@
 </section>
 <section id="sec4">
   <h2>Exploratory Data Analysis</h2>
+  <p> Visualized the data to understand trends and relationships among variables:</p>
+  <ul>
+    <li>Used histograms and box plots to check feature distributions and detect outliers.</li>
+    <li>Generated a heatmap to explore correlations, ensuring features were independent enough to contribute unique information to the model.</li>
+    <li>Visualized the target variable preciptype to address the issue of imbalanced classes, as certain weather types were more frequent.</li>
+  </ul>
 </section>
 <section id="sec5">
   <h2>Handling Imbalanced Data</h2>
+  <p>Since some weather types were underrepresented, used Random Oversampling to balance the dataset. This technique involved oversampling the minority classes to ensure the model learned from all weather conditions equally.</p>
 </section>
 <section id="sec6">
   <h2>Model Selection</h2>
