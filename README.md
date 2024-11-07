@@ -52,7 +52,7 @@
 </section>
 <section id="sec5">
   <h2>Handling Imbalanced Data</h2>
-  <p>Since some weather types were underrepresented, used Random Oversampling to balance the dataset. This technique involved oversampling the minority classes to ensure the model learned from all weather conditions equally.</p>
+  <p>Since some weather types were underrepresented, used Random Oversampling to balance the dataset.<br/> This technique involved oversampling the minority classes to ensure the model learned from all weather conditions equally.</p>
 </section>
 <section id="sec6">
   <h2>Model Selection</h2>
