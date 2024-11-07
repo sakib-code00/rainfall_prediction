@@ -133,29 +133,29 @@
 <section id="sec11">
   <h2>Visualization</h2>
   <h3>Columns</h3>
-  <img src="" alt="#hahaha">
+  <img src="" alt="Word-Cloud">
   <h3>Precipitation level in Sylhet in 2023</h3>
-  <img src="" alt="#hahaha">
+  <img src="" alt="Pie-Chart">
   <h3> The distribution of the continuous features given in the dataset</h3>
-  <img src="" alt="#hahaha">
-  <h3>boxplots for the continuous variable to detect the outliers present in the data.</h3>
-  <img src="" alt="#hahaha">
+  <img src="" alt="Subplots">
+  <h3> Boxplots for the continuous variable to detect the outliers present in the data.</h3>
+  <img src="" alt="Boxplots">
   <h3>Correlation Heatmap</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
-  <h3>Columns</h3>
-  <img src="" alt="#hahaha">
+  <img src="" alt="Heatmap">
+  <h3> confusion matrix as well for the validation data using the Logistic Regression model</h3>
+  <img src="" alt="Logistic Regression ">
+  <h3> confusion matrix as well for the validation data using the XGBoost model</h3>
+  <img src="" alt="XGBoost">
+  <h3> confusion matrix as well for the validation data using the SVC (Support Vector) model</h3>
+  <img src="" alt="SVC">
+  <h3> confusion matrix as well for the validation data using the Random Forest model</h3>
+  <img src="" alt="Random Forest">
+  <h3> confusion matrix as well for the validation data using the K-Nearest Neighbors model</h3>
+  <img src="" alt="K-NN">
+  <h3>Decision Tree</h3>
+  <img src="" alt="Decision Tree">
+  <h3> confusion matrix as well for the validation data using the Decision Tree model</h3>
+  <img src="" alt="Decision Tree">
 </section>
 
 <section id="sec12">
