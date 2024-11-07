@@ -82,23 +82,23 @@
     </tr>
     <tr>
       <td>Logistic Regression</td>
-      <td></td>
-      <td></td>
+      <td>0.87</td>
+      <td>0.85</td>
     </tr>
     <tr>
       <td>Support Vector Machine</td>
-      <td></td>
-      <td></td>
+      <td>0.91</td>
+      <td>0.89</td>
     </tr>
     <tr>
       <td>Random Forest</td>
-      <td></td>
-      <td></td>
+      <td>0.93</td>
+      <td>0.91</td>
     </tr>
     <tr>
       <td>XGBoost</td>
-      <td></td>
-      <td></td>
+      <td>0.95</td>
+      <td>0.93</td>
     </tr>
   </table>
   
