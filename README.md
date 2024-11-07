@@ -15,7 +15,8 @@
   <li><a href="#sec8">Confusion Matrix and Classification Report</a></li>
   <li><a href="#sec9">Future work</a></li>
   <li><a href="#sec10">Conclusion</a></li>
-  <li><a href="#sec11">Data Source</a></li>
+  <li><a href="#sec11">Visualization</a></li>
+  <li><a href="#sec12">Data Source</a></li>
     
 </ul>
 <section id="sec2">
@@ -129,7 +130,7 @@
   <p>This model can be extended to provide real-time weather classification, and with additional improvements, it could become a valuable<br/> tool for industries affected by weather conditions, such as agriculture, tourism, and event planning.</p>
 </section>
 
-<section id="sec11">
+<section id="sec12">
   <h2>Data Source</h2>
   <h3><a href="https://drive.google.com/file/d/1YrgnIn2rnJP6Skw18-VjHSXoDuVdqbFI/view?usp=sharing">Sylhet Weather Dataset 2023</a></h3>
   
