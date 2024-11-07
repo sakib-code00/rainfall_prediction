@@ -113,10 +113,20 @@
 
 <section id="sec9">
   <h2>Future Work</h2>
+  <p>To enhance the model’s accuracy and usability, identified several future improvements:</p>
+  <ol>
+    <li><b>Feature Engineering:</b> Introduce new features like the previous day’s conditions, seasonality, or air quality to improve predictive power.</li>
+    <li><b>Model Tuning:</b> Further optimize hyperparameters in XGBoost and explore other boosting models like CatBoost or LightGBM for better accuracy.</li>
+    <li><b>Real-Time Prediction System:</b> Deploy the model to provide real-time weather predictions through an API or web app.</li>
+    <li><b>Advanced Sampling Techniques:</b> Experiment with SMOTE (Synthetic Minority Over-sampling Technique) to better handle class imbalance.</li>
+    <li><b>Transfer Learning:</b> Utilize pre-trained weather models or regional weather patterns to improve accuracy for Sylhet or nearby regions.</li>
+  </ol>
 </section>
 
 <section id="sec10">
   <h2>Conslusion</h2>
+  <p>The project successfully developed a machine-learning model capable of classifying weather conditions<br/> based on historical data. By testing various algorithms, we found that XGBoost provided<br/> the highest accuracy, suggesting that gradient-boosting techniques are effective for weather classification.</p>
+  <p>This model can be extended to provide real-time weather classification, and with additional improvements, it could become a valuable tool for industries affected by weather conditions, such as agriculture, tourism, and event planning.</p>
 </section>
 
 <section id="sec11">
