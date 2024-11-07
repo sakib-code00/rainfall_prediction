@@ -133,8 +133,8 @@
 <section id="sec11">
   <h2>Visualization</h2>
   <h3>Columns</h3>
-  <img src="https://github.com/user-attachments/assets/e2493734-b5e8-4289-b2db-809e5c4cf80a
-" alt="Word-Cloud">
+  <img src="https://github.com/user-attachments/assets/075e9e88-1200-490f-a29a-c36e923a8239">
+
   <h3>Precipitation level in Sylhet in 2023</h3>
   <img src="" alt="Pie-Chart">
   <h3> The distribution of the continuous features given in the dataset</h3>
