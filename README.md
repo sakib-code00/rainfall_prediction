@@ -101,11 +101,14 @@
       <td>0.93</td>
     </tr>
   </table>
-  
+  <p>The XGBoost model achieved the highest validation accuracy and ROC-AUC score, making it the best-performing model.</p>
 </section>
 
 <section id="sec8">
   <h2>Confusion Matrix and Classification Report</h2>
+  <p>For the best-performing model (XGBoost), analyzed its confusion matrix and classification report:</p>
+  <li><b>Confusion Matrix:</b> Showed strong performance across all classes, though there was some misclassification<br/> in minority classes, which could benefit from further tuning.</li>
+  <li><b>Classification Report:</b> High precision and recall for majority classes, and reasonable performance on minority classes after </br>applying oversampling techniques.</li>
 </section>
 
 <section id="sec9">
