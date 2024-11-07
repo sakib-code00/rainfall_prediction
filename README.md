@@ -56,6 +56,19 @@
 </section>
 <section id="sec6">
   <h2>Model Selection</h2>
+  <p>Tested several machine learning models to determine which algorithm performed best:</p>
+  <ul>
+    <li><b>Logistic Regression:</b> A simple model that uses probabilities for binary and multiclass classification.</li>
+    <li><b>Support Vector Machine (SVM):</b> An algorithm that finds the optimal hyperplane to separate classes, effective for high-dimensional spaces.</li>
+    <li><b>Random Forest:</b> An ensemble model that builds multiple decision trees and combines their outputs to improve accuracy and reduce overfitting.</li>
+    <li><b>XGBoost:</b> A highly effective gradient boosting model, optimized for performance in machine learning competitions.</li>
+  </ul>
+  
+
+
+
+
+
 </section>
 <section id="sec7">
   <h2>Training and Evaluation</h2>
