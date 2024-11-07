@@ -33,6 +33,13 @@
 </section>
 <section id="sec3">
   <h2>Data Processing</h2>
+  <p>We conducted several preprocessing steps to prepare the data for machine learning:</p>
+  <ol type="a">
+    <li>Checked for missing data and applied techniques to fill or drop missing entries to maintain data integrity.</li>
+    <li>Removed irrelevant or highly correlated columns (e.g., tempmax and tempmin after ensuring temp was representative).</li>
+    <li>Converted categorical variables into numerical values to enable machine learning algorithms to process them.</li>
+    <li> Standardized the numerical features to ensure all features contributed equally to the model's performance.</li>
+  </ol>
 </section>
 <section id="sec4">
   <h2>Exploratory Data Analysis</h2>
