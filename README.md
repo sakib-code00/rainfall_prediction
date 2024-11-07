@@ -63,25 +63,59 @@
     <li><b>Random Forest:</b> An ensemble model that builds multiple decision trees and combines their outputs to improve accuracy and reduce overfitting.</li>
     <li><b>XGBoost:</b> A highly effective gradient boosting model, optimized for performance in machine learning competitions.</li>
   </ul>
-  
-
-
-
-
-
 </section>
+
 <section id="sec7">
   <h2>Training and Evaluation</h2>
+  <p>Split the data into training and validation sets to evaluate the models’ effectiveness. The following metrics were used:</p>
+  <li>Accuracy: Measures the overall correctness of the model.</li>
+  <li>ROC-AUC Score: Evaluates model performance, especially for imbalanced datasets.</li>
+  <li>Confusion Matrix: Helps visualize the classification results and identify misclassifications.</li>
+  <li>Classification Report: Provides detailed metrics like precision, recall, and F1-score for each class.</li>
+  <h3>Model Training Results</h3>
+  <p>The performance of each model is summarized below:</p>
+  <table style="border: 1px solid black;">
+    <tr>
+      <th>Model</th>
+      <th>Training ROC-AUC</th>
+      <th>Validation ROC-AUC</th>
+    </tr>
+    <tr>
+      <td>Logistic Regression</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Support Vector Machine</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Random Forest</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>XGBoost</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  
 </section>
+
 <section id="sec8">
   <h2>Confusion Matrix and Classification Report</h2>
 </section>
+
 <section id="sec9">
   <h2>Future Work</h2>
 </section>
+
 <section id="sec10">
   <h2>Conslusion</h2>
 </section>
+
 <section id="sec11">
   <h2>Data Source</h2>
 </section>
