@@ -1,7 +1,7 @@
 <h1>Rainfall Prediction Poject</h1>
 <section id="sec1">
   <h2>Project Overview</h2>
-  <p>This project focuses on creating a machine learning model to help predict and classify different types of weather conditions, using a dataset with weather information from Sylhet. By analyzing patterns in data like temperature, humidity, pressure, and precipitation, the model aims to identify and classify weather conditions (e.g., sunny, rainy, or foggy).</p>
+  <p>This project focuses on creating a machine-learning model to help predict and classify different weather conditions, using a dataset with weather information from Sylhet, Bangladesh. By analyzing patterns in data like temperature, humidity, pressure, and precipitation, the model aims to identify and classify weather conditions (e.g., sunny, rainy, or foggy).</p>
 </section>
 <h2>Table of Content</h2>
 <ul>
@@ -20,6 +20,16 @@
 </ul>
 <section id="sec2">
   <h2>Data Descriptions</h2>
+  <p>The dataset is a collection of weather observations from Sylhet in 2023. Key features include:</p>
+  <ul>
+    <li><b>Temperature (tempmax, tempmin, temp):</b> Maximum, minimum, and current temperature.</li>
+    <li>Humidity: Measures the moisture in the air.</li>
+    <li>Precipitation Type (preciptype): Type of precipitation recorded, which is our target variable.</li>
+    <li>Pressure: Atmospheric pressure in the region.</li>
+    <li>Visibility: Measure of the clarity of the atmosphere.</li>
+    <li>Wind Speed: Speed of wind, which can influence weather patterns.</li>
+  <p>The target variable, preciptype, represents various weather types we aim to classify.</p>
+  </ul>
 </section>
 <section id="sec3">
   <h2>Data Processing</h2>
