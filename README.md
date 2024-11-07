@@ -131,6 +131,29 @@
 </section>
 
 <section id="sec11">
+  <h2>Visualization</h2>
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
+  <h3>Precipitation level in Sylhet in 2023</h3>
+  <img src="" alt="#hahaha">
+  <h3> The distribution of the continuous features given in the dataset</h3>
+  <img src="" alt="#hahaha">
+  <h3>boxplots for the continuous variable to detect the outliers present in the data.</h3>
+  <img src="" alt="#hahaha">
+  <h3>Correlation Heatmap</h3>
+  <img src="" alt="#hahaha">
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
+  <h3>Columns</h3>
+  <img src="" alt="#hahaha">
   <h3>Columns</h3>
   <img src="" alt="#hahaha">
 </section>
