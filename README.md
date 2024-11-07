@@ -136,7 +136,7 @@
   <img src="https://github.com/user-attachments/assets/075e9e88-1200-490f-a29a-c36e923a8239">
 
   <h3>Precipitation level in Sylhet in 2023</h3>
-  <img src="!https://github.com/user-attachments/assets/6d0f99fe-3d4b-463c-a7e3-0fb92458e493">
+  <img src="https://github.com/user-attachments/assets/6d0f99fe-3d4b-463c-a7e3-0fb92458e493">
   <h3> The distribution of the continuous features given in the dataset</h3>
   <img src="" alt="Subplots">
   <h3> Boxplots for the continuous variable to detect the outliers present in the data.</h3>
