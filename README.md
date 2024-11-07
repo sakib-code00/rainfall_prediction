@@ -133,7 +133,7 @@
 <section id="sec11">
   <h2>Visualization</h2>
   <h3>Columns</h3>
-  <img src="![image](https://github.com/user-attachments/assets/e2493734-b5e8-4289-b2db-809e5c4cf80a)
+  <img src="https://github.com/user-attachments/assets/e2493734-b5e8-4289-b2db-809e5c4cf80a
 " alt="Word-Cloud">
   <h3>Precipitation level in Sylhet in 2023</h3>
   <img src="" alt="Pie-Chart">
