@@ -125,10 +125,12 @@
 
 <section id="sec10">
   <h2>Conslusion</h2>
-  <p>The project successfully developed a machine-learning model capable of classifying weather conditions<br/> based on historical data. By testing various algorithms, we found that XGBoost provided<br/> the highest accuracy, suggesting that gradient-boosting techniques are effective for weather classification.</p>
-  <p>This model can be extended to provide real-time weather classification, and with additional improvements, it could become a valuable tool for industries affected by weather conditions, such as agriculture, tourism, and event planning.</p>
+  <p>The project successfully developed a machine-learning model capable of classifying weather conditions based on historical data.<br/> By testing various algorithms, we found that XGBoost provided the highest accuracy, suggesting that gradient-boosting<br/> techniques are effective for weather classification.</p>
+  <p>This model can be extended to provide real-time weather classification, and with additional improvements, it could become a valuable<br/> tool for industries affected by weather conditions, such as agriculture, tourism, and event planning.</p>
 </section>
 
 <section id="sec11">
   <h2>Data Source</h2>
+  <h3><a href="https://drive.google.com/file/d/1YrgnIn2rnJP6Skw18-VjHSXoDuVdqbFI/view?usp=sharing">Sylhet Weather Dataset 2023</a></h3>
+  
 </section>
